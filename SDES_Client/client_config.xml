@@ -1,0 +1,9 @@
+<?xml version="1.0" ?> 
+<client>
+
+	<name>cl1</name>
+	<key>0000000001</key>
+	<serverip>192.168.1.3</serverip>
+        <serverport>4554</serverport>
+        <clientListenPort>4564</clientListenPort>        
+</client>
